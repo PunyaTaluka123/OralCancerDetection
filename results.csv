@@ -1,0 +1,132 @@
+Filename,True Label,Predicted Label
+cancer\01960a64-cfe8-444d-bbc5-575c15389a21.jpg,0,1
+cancer\1200px-ZungenCa2a.jpg,0,1
+cancer\18b79305-949e-4ed8-849c-ec5d5a794752.jpg,0,1
+cancer\3-s2.0-B9780443100734500148-f10-07-9780443100734.jpg,0,1
+cancer\324950_1100.jpg,0,0
+cancer\41415_2000_Article_BF4800481_Fig1_HTML.jpg,0,1
+cancer\41457tn.jpg,0,1
+cancer\46e21e7be60567c4b9b2ca9018587f88_XL.jpg,0,1
+cancer\949b9f09-aa54-454e-b631-b6d98e079f45.jpg,0,0
+cancer\C0235749-Mouth_cancer-SPL-20170511085515620.jpg,0,0
+cancer\Carcinomaoftherighttongue_OCT-20161108085557163.jpg,0,1
+cancer\IMG_3506-e1564923599677.jpg,0,1
+cancer\Lower_lip_cancer.jpg,0,0
+cancer\Oral-Cancer-Screenings.jpg,0,0
+cancer\Oral-cancer-Courtesy-of-Professor-Jan-Zapa1a-Chair-of-Cranio-Maxillofacial.png,0,1
+cancer\SRMJResDentSci_2013_4_1_35_116830_u1.jpg,0,1
+cancer\Screenshot 2020-03-16 at 10.47.50 AM.png,0,0
+cancer\Tongue-cancer-symptoms.png,0,1
+cancer\a-Frontal-view-of-patient-with-lower-lip-squamous-cell-carcinoma-b-Postoperative.png,0,1
+cancer\a342a6a0-d3f6-4459-b99a-6a4d4313aa9f.jpg,0,0
+cancer\b2585c8d-65a0-4476-a4e6-a9f2d424cd60.jpg,0,1
+cancer\base-of-tongue-cancer-symptoms.jpg,0,1
+cancer\cancer 6.jpg,0,0
+cancer\d09a9b5c-a0b1-488f-9d50-2937fe578a7e.jpg,0,0
+cancer\dataset_1200px-ZungenCa2a (1).jpg,0,1
+cancer\dataset_1200px-ZungenCa2a.jpg,0,1
+cancer\dataset_1366.fig.1.png,0,0
+cancer\dataset_2-1080x675.jpg,0,0
+cancer\dataset_280x190_tongue_cancer_facts_ref_guide.jpg,0,1
+cancer\dataset_3-s2.0-B9780443100734500148-f10-07-9780443100734.jpg,0,1
+cancer\dataset_41415_2000_Article_BF4800481_Fig1_HTML.jpg,0,1
+cancer\dataset_41457tn.jpg,0,1
+cancer\dataset_650x350_oral_cancer_ref_guide.jpg,0,1
+cancer\dataset_Carcinomaoftherighttongue_OCT-20161108085557163.jpg,0,1
+cancer\dataset_Oral-cancer-Courtesy-of-Professor-Jan-Zapa1a-Chair-of-Cranio-Maxillofacial.png,0,1
+cancer\dataset_SRMJResDentSci_2013_4_1_35_116830_u1.jpg,0,1
+cancer\dataset_Tongue-cancer-symptoms.png,0,1
+cancer\dataset_base-of-tongue-cancer-symptoms.jpg,0,1
+cancer\dataset_cancer 6.jpg,0,0
+cancer\dataset_figure1.jpg,0,0
+cancer\dataset_left_lateral_tongue_dysplasia_3.jpeg,0,1
+cancer\dataset_mouth-cancer-symptoms-1.jpg,0,1
+cancer\dataset_mouth-photo-3.png,0,1
+cancer\dataset_mouth-photo-4.png,0,1
+cancer\dataset_oral-cancer-by-j-shah-33-728.jpg,0,1
+cancer\dataset_oral-cancer-screening.jpg,0,1
+cancer\dataset_oral-cancer-treatment-500x500.png,0,1
+cancer\dataset_oral-cancer__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDIwXQ.jpg,0,1
+cancer\dataset_oral-leukoplakia-br-image-credit-dermnet-new-zealand-br.jpg,0,0
+cancer\dataset_pract_oral_cancer.jpg,0,1
+cancer\dataset_squamous-cell-carinoma-of-the-tongue.jpg,0,1
+cancer\download (2).jpeg,0,0
+cancer\download (4).jpeg,0,1
+cancer\download.jpeg,0,1
+cancer\ds01089_im00213_c7_lipcancerpicturethu_jpg.jpg,0,1
+cancer\f063-001a-9781416025276.jpg,0,0
+cancer\f45634f6-0b4a-4d7d-ac44-5ea1658f728e.jpg,0,0
+cancer\figure1.jpg,0,0
+cancer\first-sign-lip-cancer_c3094f88d448d26b.jpg,0,0
+cancer\images (1).jpeg,0,1
+cancer\images (2).jpeg,0,1
+cancer\images (3).jpeg,0,0
+cancer\images (4).jpeg,0,1
+cancer\images (5).jpeg,0,1
+cancer\images.jpeg,0,1
+cancer\ircmj-17-3-13478-g001-preview.png,0,0
+cancer\is-lip-cancer-painful.jpg,0,1
+cancer\lip-cancer-and-symptoms.jpg,0,0
+cancer\lip-cancer-br-image-credit-national-cancer-institute-2003-br.jpg,0,0
+cancer\lip-cancer-pictures-youtube-regarding-lip-cancer-pictures.jpg,0,1
+cancer\lip-reconstruction-gallery-skin-cancer-and-reconstructive-surgery-pertaining-to-lip-cancer-surgery.jpg,0,0
+cancer\lip_images_oct_2006.jpg,0,1
+cancer\lipreconstruction1.jpg,0,1
+cancer\mouth-cancer-symptoms-1.jpg,0,1
+cancer\mouth-cancer.jpg,0,1
+cancer\mouth-photo-3.png,0,1
+cancer\mouth-photo-4.png,0,1
+cancer\oral-cancer-by-j-shah-33-728.jpg,0,1
+cancer\oral-cancer-screening.jpg,0,1
+cancer\oral-cancer-treatment-500x500.png,0,1
+cancer\oral-cancer__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDIwXQ.jpg,0,1
+cancer\oral-leukoplakia-br-image-credit-dermnet-new-zealand-br.jpg,0,0
+cancer\oralcancer1.png,0,0
+cancer\pract_oral_cancer.jpg,0,1
+cancer\skin-cancer-of-the-lip.jpg,0,1
+cancer\skin-cancer-on-lips-treatment.jpg,0,1
+cancer\squamous-cell-carinoma-of-the-tongue.jpg,0,1
+non-cancer\12654650-6954555-image-a-22_1556101508834-Edited.jpg,1,0
+non-cancer\1366.fig.1.png,1,0
+non-cancer\20190916_1420142.jpg,1,0
+non-cancer\20191129_1750382.jpg,1,1
+non-cancer\20191129_1825022.jpg,1,1
+non-cancer\20191129_1827192.jpg,1,0
+non-cancer\20200302_1725362.jpg,1,0
+non-cancer\20200303_1146172.jpg,1,1
+non-cancer\20200314_1117132.jpg,1,0
+non-cancer\20200314_1117432.jpg,1,0
+non-cancer\20200314_1123332.jpg,1,1
+non-cancer\20200314_1124072.jpg,1,0
+non-cancer\20200314_1125032.jpg,1,0
+non-cancer\20200314_1129242.jpg,1,0
+non-cancer\20200314_1129243.jpg,1,0
+non-cancer\20200314_1129245.jpg,1,0
+non-cancer\20200314_1130302.jpg,1,0
+non-cancer\20200314_1130303.jpg,1,0
+non-cancer\20200314_1130304.jpg,1,1
+non-cancer\35556-m.jpg,1,0
+non-cancer\388x210-White_Bumps_on_Lips.jpg,1,1
+non-cancer\69293_mouth-exam-child-iStock-510174422.jpg_ccba64ac-3050-4b37-9641-ca94b3db2c11.jpeg,1,1
+non-cancer\DSC_01992.jpg,1,0
+non-cancer\DSC_02062.jpg,1,0
+non-cancer\DSC_02063.jpg,1,0
+non-cancer\DSC_3536_2.jpg,1,0
+non-cancer\IMG_20170301_1115506262.jpg,1,1
+non-cancer\IMG_57592.jpg,1,1
+non-cancer\Normal-tongue-out--1296x728-gallery_slide1.jpg,1,0
+non-cancer\Screenshot 2020-03-15 at 9.58.58 PM.png,1,1
+non-cancer\WP_20141029_18_42_38_Pro2.jpg,1,0
+non-cancer\WP_20141221_0012.jpg,1,0
+non-cancer\_tongue.jpg,1,0
+non-cancer\biopsy-oral-cancer.jpg,1,0
+non-cancer\close-up-of-spots-on-tongue.jpg,1,0
+non-cancer\dataset__654-What_Does_Mouth_Cancer_Look-642x361-Side-2.jpg,1,1
+non-cancer\dataset_jlspo68f92i21.jpg,1,0
+non-cancer\download (1).jpeg,1,0
+non-cancer\download (3).jpeg,1,1
+non-cancer\images.jpeg,1,0
+non-cancer\tongue (1).jpg,1,0
+non-cancer\tongue-1.jpg,1,0
+non-cancer\tongue-tingling-in-person-with-their-tongue-sticking-out.jpg,1,0
+non-cancer\tongue.jpg,1,0
